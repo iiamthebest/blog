@@ -1,0 +1,40 @@
+body{
+  background-color:yellow;
+    text-align:center;
+}
+#heading{
+  color:cyan;
+  font-size:50px;
+}
+#animals{
+  color:Orange;
+  font-size:40px;
+}
+#Lion{
+  color:brown;
+  font-size:30px;
+}#Lion{
+  color:brown;
+  font-size:30px;
+}
+#Tiger{
+  color:brown;
+  font-size:30px;
+}
+#Blue Whale{
+  color:brown;
+  font-size:30px;
+}
+#beluga whale {
+  color:brown;
+  font-size:30px;
+}
+#Plants{
+  color:Pink;
+  font-size:30px;
+}
+#Oak,#Hydrilla,#Orchids,#Rose{
+  color:green;
+  font-size:30px
+}
+  
